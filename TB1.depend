@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1510331356 source:d:\data\tel-u\5\tba\tubes\phase 1\tb1\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"tba_h.h"
+
+1510330458 d:\data\tel-u\5\tba\tubes\phase 1\tb1\tba_h.h
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"tba_h.h"
+
+1510332202 source:d:\data\tel-u\5\tba\tubes\phase 1\tb1\tba.cpp
+	"tba_h.h"
+
+1543127778 source:d:\alief\tugas\telkom university\mata kuliah\semester 3\teori bahasa dan automata\tubes\tb1\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"tba_h.h"
+
+1543127347 d:\alief\tugas\telkom university\mata kuliah\semester 3\teori bahasa dan automata\tubes\tb1\tba_h.h
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"tba_h.h"
+
+1543125530 source:d:\alief\tugas\telkom university\mata kuliah\semester 3\teori bahasa dan automata\tubes\tb1\tba.cpp
+	"tba_h.h"
+
+1543593790 source:f:\kulyeah!1!1\semester 3\tba\tubes\tubes tba\main.cpp
+	"tba_h.h"
+
+1543593798 f:\kulyeah!1!1\semester 3\tba\tubes\tubes tba\tba_h.h
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"tba_h.h"
+
+1543593908 source:f:\kulyeah!1!1\semester 3\tba\tubes\tubes tba\tba.cpp
+	"tba_h.h"
+
+1557672660 source:f:\kulyeah!1!1\3. semester 3\tba\tubes\tubes tba\main.cpp
+	"tba_h.h"
+
+1543593798 f:\kulyeah!1!1\3. semester 3\tba\tubes\tubes tba\tba_h.h
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"tba_h.h"
+
+1543593908 source:f:\kulyeah!1!1\3. semester 3\tba\tubes\tubes tba\tba.cpp
+	"tba_h.h"
+
